@@ -4,7 +4,6 @@ out/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
-.class
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -39,3 +38,14 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Añadido por el enunciado ###
+bin/
+*.class
+*.jar
+*.war
+*.zip
+*.exe
+*.log
+*.tmp
+.idea/
