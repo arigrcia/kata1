@@ -1,5 +1,11 @@
 target/
 out/
+*.class
+bin/
+*.jar
+*.war
+*.zip
+*.exe
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -38,14 +44,3 @@ build/
 
 ### Mac OS ###
 .DS_Store
-
-### Añadido por el enunciado ###
-bin/
-*.class
-*.jar
-*.war
-*.zip
-*.exe
-*.log
-*.tmp
-.idea/
